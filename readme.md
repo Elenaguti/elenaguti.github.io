@@ -1,4 +1,4 @@
-## (Nombre del proyecto)
+## CIBERESCAPE
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -8,17 +8,17 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo**: Ciberescape
 
-**Web:**   (url github.io)
+**Web**: elanaguti.github.io
 
-**Autor:**  (Nombre apellidos)
+**Autor**: Elena Gutiérrez Camacho
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen**: Este proyecto buscaba reflejar la estetica de un videojuego retro, la historia trata de un villano que encierra a su enemigo para poder hacerse libremente con el poder sobre el mundo. Tu personaje ha sido encerrado y tienes que intentar escapar antes de que sea tarde.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  videojuego
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : El logotipo es un jilguero que tras su vuelo deja escrito mi nombre artístico.
 
 (insertar imágenes a resolucion de 100px alto)
 
@@ -26,30 +26,17 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 16KB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 02/06/2023
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github:
-- Twitter
-- Instagram
-
-
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
+- Github
 
 # 2. Memoria del proyecto 
-
-### 2.1 Storyboard: 
-
-
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
-
-
 
 ### 2.2. Esquema de navegación 
 
@@ -71,75 +58,60 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
-
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
-
+**Investigación de campo** 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
-
-
+Este  proyecto es interesante porque 
 
 **Publico / audiencia**
 
-- Orientado a 
-
-
-
-
+- Recomendado a partir de los 12 años
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
-
-- Juego. 
+- Logo.
+- Teaser.
+- Menu.
+- Juego.
+- Opciones.
+- Galeria.
+- Créditos. 
 - Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
+- Pistas.
+- Elementos de navegación (botones)
 - etc.
 
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
-
+El videojuego a la hora de exportarlo no funciona. 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-
-
-
-
+Es un proyecto interesante pero pienso que hubiera sido más facil realizarlo en otro tipo de aplicación más moderna. Los problemas te los marca pero no sabes donde están.
 
 
 # 5 Referencias 
 
-**Artículos y blogs ** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
+Videojuegos arcade.
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica: pixabay 
+* Imágenes: propias
+* Tipografía : pixel
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Procreate
+- Photoshop
+- Audacity
 
 
-
-(imagen de la licencia, copiar y pegar aquí la correcta)
 
 https://creativecommons.org/licenses/?lang=es
 
