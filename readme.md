@@ -57,6 +57,7 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 
 ### Etapa 1: Ideación de proyecto
+![IMG_5179](https://github.com/Elenaguti/elenaguti.github.io/assets/135214100/936967c9-92c8-46d6-8758-8bf26c77a201)
 
 **Investigación de campo** 
 
